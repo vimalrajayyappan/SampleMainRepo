@@ -1,3 +1,4 @@
 [submodule "SampleSubModule"]
 	path = SampleSubModule
 	url = https://github.com/vimalrajayyappan/SampleSubModule.git
+	branch = main
